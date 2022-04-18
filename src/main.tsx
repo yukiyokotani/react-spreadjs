@@ -1,7 +1,9 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom/client';
 
 import './index.scss';
+import '@grapecity/spread-sheets/styles/gc.spread.sheets.excel2013white.css';
+
 import App from './App';
 
 const container = document.getElementById('root');

@@ -28,7 +28,7 @@
     "react/function-component-definition": 0,
     "import/extensions": [
       2,
-      { "extensions": [".js", ".jsx", ".json", ".ts", ".tsx", "scss"] }
+      { "extensions": [".js", ".jsx", ".json", ".ts", ".tsx", "css", "scss"] }
     ],
     "import/order": [
       "error",
